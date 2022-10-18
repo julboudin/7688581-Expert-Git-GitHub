@@ -57,7 +57,11 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
+<<<<<<< HEAD
 * **Julie Boudin**
+=======
+* **O. C.**
+>>>>>>> 2e8378c (#2 : README | Ajout de l'auteur.)
 
 ## License
 
