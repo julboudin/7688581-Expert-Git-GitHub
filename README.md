@@ -11,7 +11,11 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
+<<<<<<< HEAD
 Aucun prérequis n'est nécessaire.
+=======
+A définir
+>>>>>>> c8902e4 (Update README.md)
 ```
 
 ### Installation
@@ -64,4 +68,8 @@ Merci de lire les fichiers :
 
 ## License
 
+<<<<<<< HEAD
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/LICENSE) pour plus de détails
+=======
+Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+>>>>>>> c8902e4 (Update README.md)
